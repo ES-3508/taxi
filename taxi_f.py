@@ -573,7 +573,7 @@ tile_style = """
                 padding: 20px;
                 border-radius: 10px;
                 text-align: center;
-                height: 200px;
+                height: 150px;
                 display: flex;
                 flex-direction: column;
                 justify-content: center;
