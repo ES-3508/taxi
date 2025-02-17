@@ -4,6 +4,6 @@ folium>=0.12.0
 streamlit-folium>=0.10.0
 plotly>=5.0.0
 python-dotenv==1.0.1
-pymongo==4.11.1
+pymongo==4.10.1
 geopy==2.4.1
 openai==1.63.0
