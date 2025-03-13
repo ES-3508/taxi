@@ -308,54 +308,54 @@ normal_assigned_trips = [
 
 
 combined_trips = [
-  { "ride_ids": ["4832077", "4832084"], "driver_name": "Koogan" },
-  { "ride_ids": ["4832085", "4832091"], "driver_name": "Wood" },
-  { "ride_ids": ["4836234", "4834709"], "driver_name": "Chris" },
-  { "ride_ids": ["4832072", "4832053"], "driver_name": "Jimmy" },
-  { "ride_ids": ["4832052", "4832062"], "driver_name": "Martin" },
-  { "ride_ids": ["4832089", "4832075"], "driver_name": "Koogan" },
-  { "ride_ids": ["4828927", "4832136"], "driver_name": "Mark" },
-  { "ride_ids": ["4832133", "4833213"], "driver_name": "Joshua" },
-  { "ride_ids": ["4832076", "4832063"], "driver_name": "Ivor" },
-  { "ride_ids": ["4828958", "4832073"], "driver_name": "Nicko" },
-  { "ride_ids": ["4832123", "4832049"], "driver_name": "Paul" },
-  { "ride_ids": ["4808802", "4834875"], "driver_name": "Jack" },
-  { "ride_ids": ["4835415", "4835422"], "driver_name": "Joshua" },
-  { "ride_ids": ["4836446", "4836802"], "driver_name": "Mark" },
-  { "ride_ids": ["4832132", "4836763"], "driver_name": "Ivor" },
-  { "ride_ids": ["4836722", "4836739"], "driver_name": "Nicko" },
-  { "ride_ids": ["4836727", "4835307"], "driver_name": "Paul" },
-  { "ride_ids": ["4834469", "4832050"], "driver_name": "Jack" },
-  { "ride_ids": ["4836509", "4836732"], "driver_name": "Joshua" },
-  { "ride_ids": ["4834975", "4836450"], "driver_name": "Mark" },
-  { "ride_ids": ["4836694", "4836697"], "driver_name": "Ivor" },
-  { "ride_ids": ["4836700", "4836698"], "driver_name": "Nicko" },
-  { "ride_ids": ["4829375", "4829377"], "driver_name": "Paul" },
-  { "ride_ids": ["4831966", "4831965"], "driver_name": "Jack" },
-  { "ride_ids": ["4836726", "4836730"], "driver_name": "Joshua" },
-  { "ride_ids": ["4836395", "4832061"], "driver_name": "Mark" },
-  { "ride_ids": ["4832051", "4832128"], "driver_name": "Ivor" },
-  { "ride_ids": ["4835997", "4832101"], "driver_name": "Nicko" },
-  { "ride_ids": ["4835984", "4836019"], "driver_name": "Paul" },
-  { "ride_ids": ["4832124", "4832135"], "driver_name": "Jack" },
-  { "ride_ids": ["4832121", "4833494"], "driver_name": "Joshua" },
-  { "ride_ids": ["4832057", "4832045"], "driver_name": "Mark" },
-  { "ride_ids": ["4832088", "4832058"], "driver_name": "Ivor" },
-  { "ride_ids": ["4834470", "4836018"], "driver_name": "Nicko" },
-  { "ride_ids": ["4836897", "4836535"], "driver_name": "Paul" },
-  { "ride_ids": ["4832114", "4836388"], "driver_name": "Jack" },
-  { "ride_ids": ["4831975", "4829378"], "driver_name": "Joshua" },
-  { "ride_ids": ["4836991", "4832134"], "driver_name": "Noah" },
-  { "ride_ids": ["4833431", "4832900"], "driver_name": "Emma" },
-  { "ride_ids": ["4830361", "4833438"], "driver_name": "Olivia" },
-  { "ride_ids": ["4835770", "4835774"], "driver_name": "Ava" },
-  { "ride_ids": ["4836977", "4836971"], "driver_name": "Liam" },
-  { "ride_ids": ["4832127", "4836975"], "driver_name": "Noah" },
-  { "ride_ids": ["4836983", "4836989"], "driver_name": "Emma" },
-  { "ride_ids": ["4836974", "4836987"], "driver_name": "Olivia" },
-  { "ride_ids": ["4832060", "4832888"], "driver_name": "Ava" },
-  { "ride_ids": ["4836979", "4836986"], "driver_name": "Liam" },
-  { "ride_ids": ["4834472", "4834473"], "driver_name": "Noah" }
+  { "ride_id": ["4832077", "4832084"], "driver_name": "Koogan" },
+  { "ride_id": ["4832085", "4832091"], "driver_name": "Wood" },
+  { "ride_id": ["4836234", "4834709"], "driver_name": "Chris" },
+  { "ride_id": ["4832072", "4832053"], "driver_name": "Jimmy" },
+  { "ride_id": ["4832052", "4832062"], "driver_name": "Martin" },
+  { "ride_id": ["4832089", "4832075"], "driver_name": "Koogan" },
+  { "ride_id": ["4828927", "4832136"], "driver_name": "Mark" },
+  { "ride_id": ["4832133", "4833213"], "driver_name": "Joshua" },
+  { "ride_id": ["4832076", "4832063"], "driver_name": "Ivor" },
+  { "ride_id": ["4828958", "4832073"], "driver_name": "Nicko" },
+  { "ride_id": ["4832123", "4832049"], "driver_name": "Paul" },
+  { "ride_id": ["4808802", "4834875"], "driver_name": "Jack" },
+  { "ride_id": ["4835415", "4835422"], "driver_name": "Joshua" },
+  { "ride_id": ["4836446", "4836802"], "driver_name": "Mark" },
+  { "ride_id": ["4832132", "4836763"], "driver_name": "Ivor" },
+  { "ride_id": ["4836722", "4836739"], "driver_name": "Nicko" },
+  { "ride_id": ["4836727", "4835307"], "driver_name": "Paul" },
+  { "ride_id": ["4834469", "4832050"], "driver_name": "Jack" },
+  { "ride_id": ["4836509", "4836732"], "driver_name": "Joshua" },
+  { "ride_id": ["4834975", "4836450"], "driver_name": "Mark" },
+  { "ride_id": ["4836694", "4836697"], "driver_name": "Ivor" },
+  { "ride_id": ["4836700", "4836698"], "driver_name": "Nicko" },
+  { "ride_id": ["4829375", "4829377"], "driver_name": "Paul" },
+  { "ride_id": ["4831966", "4831965"], "driver_name": "Jack" },
+  { "ride_id": ["4836726", "4836730"], "driver_name": "Joshua" },
+  { "ride_id": ["4836395", "4832061"], "driver_name": "Mark" },
+  { "ride_id": ["4832051", "4832128"], "driver_name": "Ivor" },
+  { "ride_id": ["4835997", "4832101"], "driver_name": "Nicko" },
+  { "ride_id": ["4835984", "4836019"], "driver_name": "Paul" },
+  { "ride_id": ["4832124", "4832135"], "driver_name": "Jack" },
+  { "ride_id": ["4832121", "4833494"], "driver_name": "Joshua" },
+  { "ride_id": ["4832057", "4832045"], "driver_name": "Mark" },
+  { "ride_id": ["4832088", "4832058"], "driver_name": "Ivor" },
+  { "ride_id": ["4834470", "4836018"], "driver_name": "Nicko" },
+  { "ride_id": ["4836897", "4836535"], "driver_name": "Paul" },
+  { "ride_id": ["4832114", "4836388"], "driver_name": "Jack" },
+  { "ride_id": ["4831975", "4829378"], "driver_name": "Joshua" },
+  { "ride_id": ["4836991", "4832134"], "driver_name": "Noah" },
+  { "ride_id": ["4833431", "4832900"], "driver_name": "Emma" },
+  { "ride_id": ["4830361", "4833438"], "driver_name": "Olivia" },
+  { "ride_id": ["4835770", "4835774"], "driver_name": "Ava" },
+  { "ride_id": ["4836977", "4836971"], "driver_name": "Liam" },
+  { "ride_id": ["4832127", "4836975"], "driver_name": "Noah" },
+  { "ride_id": ["4836983", "4836989"], "driver_name": "Emma" },
+  { "ride_id": ["4836974", "4836987"], "driver_name": "Olivia" },
+  { "ride_id": ["4832060", "4832888"], "driver_name": "Ava" },
+  { "ride_id": ["4836979", "4836986"], "driver_name": "Liam" },
+  { "ride_id": ["4834472", "4834473"], "driver_name": "Noah" }
 ]
 
 def convert_objectid(item):
@@ -558,7 +558,7 @@ def display_trip_tables():
     for trip in combined_trips:
         # Collect ride details for all rides in the combined trip
         combined_ride_details = []
-        ride_ids = []
+        ride_id = []
         pickup_locations = []
         dropoff_locations = []
         total_passengers = 0
@@ -566,7 +566,7 @@ def display_trip_tables():
         for ride_id in trip['ride_id']:
             for ride in rides:
                 if str(ride["ID"]) == ride_id:
-                    ride_ids.append(ride["ID"])
+                    ride_id.append(ride["ID"])
                     pickup_locations.append(ride["Pickup_Location"])
                     dropoff_locations.append(ride["Dropoff_Location"])
                     total_passengers += ride["No of Passengers"]
@@ -575,7 +575,7 @@ def display_trip_tables():
         # Create a single row for the combined trip
         combined_trips_data.append({
             "Driver": trip['driver_name'],
-            "Ride IDs": ", ".join(map(str, ride_ids)),
+            "Ride IDs": ", ".join(map(str, ride_id)),
             "Pickup Locations": ", ".join(pickup_locations),
             "Dropoff Locations": ", ".join(dropoff_locations),
             "Total Passengers": total_passengers
